@@ -1,0 +1,46 @@
+
+body{
+				background-image: Image/dell.jpg);
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center;
+				background-attachment: fixed;
+				height: 100%;
+			}
+			.title{
+				text-align: center;
+				font-size: 2.5em;
+				color: #000;
+			}
+ 
+.container{
+		display:flex;
+		justify-content: space-between;
+		margin : 15px;
+		font-size:large;
+		font-family:'Courier New', Courier, monospace;
+		
+	}
+	.container button{
+    width: 100%;
+    padding: 5px 0;
+    border: none;
+    background-color:transparent;
+    font-size: 18px;
+    color: #black;
+}
+	.Paragraph {
+	
+	width: 100%;
+	
+	background-color:	rgba (0,0,0,.7);
+	box-shadow: 0 0 10px rgba(255,255,255,.3);
+	}
+	.judul{
+	
+	width: 100%;
+	
+	background-color:	rgba (0,0,0,.7);
+	box-shadow: 0 0 10px rgba(255,255,255,.3);
+	}
+	
